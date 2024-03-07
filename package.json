@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/magic-coders/",
+    "build": "vite build --base=/html_css_104_andrewwwmatsko/",
     "preview": "vite preview"
   },
   "devDependencies": {
